@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, my name is Dmitry. 
+
+🌱 I’m currently learning Swift.
 
 <!--
 **Chak675/chak675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
