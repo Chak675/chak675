@@ -17,6 +17,26 @@
 
 About me:
 
+I graduated from online school, where the whole emphasis was on UIKit and StoryBoarb
+In the last stages of training I was engaged in rendering of applications on sent layouts. 
+
+
+After completing the training I started learning SwiftUI on my own, which inspires me a lot to create new things. 
+Read about SwiftUI applications [GitHub](https://github.com/Chak675?tab=repositories)
+
+
+Technology stack:
+- MVVM + Coordinator, MVC, MVP
+- SOLID
+- ООP
+- Foundation, UIKit, Storyboard, SwiftUI
+- UI programmatically(layout from code, constraints from code)
+- multithread, GCD
+- CocoaPod
+- SPM(Swift Package Manager)
+- JSON
+- Git, Git-Flow
+- JIRA
 
 
 
