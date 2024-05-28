@@ -2,6 +2,15 @@
 
 🌱 I’m currently learning Swift.
 
+
+📫 How to reach me:
+<a href="https://t.me/ZorinDmitrii">
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+
+
+
 <!--
 **Chak675/chak675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
